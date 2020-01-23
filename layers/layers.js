@@ -926,7 +926,7 @@ lyr__10_44.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label
 lyr__11_45.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
 lyr__9_46.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
 lyr__8_47.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
-lyr__7_48.set('fieldLabels', {'Длина': 'inline label', 'Имя': 'no label', });
+lyr__7_48.set('fieldLabels', {'Длина': 'no label', 'Имя': 'inline label', });
 lyr_6_49.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
 lyr____5_50.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
 lyr___4_51.set('fieldLabels', {'Имя': 'no label', 'Длина': 'inline label', });
